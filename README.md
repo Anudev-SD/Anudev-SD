@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Anudev S. D.
+# Hi there 👋, I'm Anudev Shyna Dinesh
 
 I'm a Computer Science graduate from Kerala, India, interested in **Generative AI, Agentic AI, Machine Learning, and building practical AI applications**. I enjoy turning ideas into useful projects—from retrieval-augmented generation (RAG) assistants to multi-agent workflows—and continuously improving my skills through hands-on learning.
 
@@ -12,7 +12,7 @@ I'm a Computer Science graduate from Kerala, India, interested in **Generative A
 - **Name:** Anudev S. D.
 - **From:** Kannur, Kerala, India
 - **Education:** Bachelor's degree in Computer Science
-- **Career interests:** Generative AI Engineer, Agentic AI Engineer, and AI/ML Engineer
+- **Career interests:** AI Engineer, Generative AI Engineer, Agentic AI Engineer, and AI/ML Engineer
 - I build projects that explore **RAG, LLM applications, agentic tool calling, and multi-agent systems**.
 - I am interested in developing AI systems that are useful, grounded in relevant information, and designed with appropriate safeguards.
 - I am continuously learning, experimenting, and strengthening my software development and AI engineering skills.
