@@ -59,6 +59,7 @@ I'm a Computer Science graduate from Kerala, India, interested in **Generative A
 | **Inventory Management Optimization** | Explores demand forecasting and reinforcement learning for inventory decisions. |
 | **F1 Data Dashboard** | Analyzes Formula 1 data and visualizes patterns such as qualifying performance and pit-stop efficiency. |
 | **FP&A Commentary Copilot** | Generates monthly finance commentary from P&L data and visualizes drivers such as budget variances and margin changes using RAG-grounded explanations and guardrails against fabricated numbers. |
+| **Support Ticket Triage System** | Classifies customer support tickets by category and urgency, drafts AI-generated responses using OpenAI, and stores ticket details in an SQLite database for human review and approval. |
 
 > Project descriptions summarize the work at a high level. Check each repository for its actual implementation, setup instructions, and limitations.
 
