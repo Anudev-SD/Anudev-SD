@@ -52,7 +52,7 @@ I'm a Computer Science graduate from Kerala, India, interested in **Generative A
 
 | Project | What it does |
 |---|---|
-| **E-Commerce Customer Support Assistant — RAG & Agentic Tool Calling** | Agentic RAG customer support chatbot built with OpenAI function calling, embedding-based retrieval, and rule-enforced tool APIs, with human-escalation fallbacks. |
+| **E-Commerce Customer Support Assistant — RAG & Agentic Tool Calling** | Agentic RAG customer support chatbot built with OpenAI function calling, embedding-based retrieval, and rule-enforced tool APIs, with human-escalation fallbacks. https://github.com/Anudev-SD/AI-Medical-Report-Analyzer|
 | **Multi-Agent AI Stock Analyst** | Explores stock analysis by combining fundamental, technical, and sentiment-oriented research with a multi-agent workflow. |
 | **Medical RAG Application** | A retrieval-augmented application designed to answer questions using relevant medical reference content. |
 | **Breast Cancer Gene Expression Analysis** | Applies data analysis and machine-learning methods to gene-expression data and explores Bayesian-network-based inference. |
