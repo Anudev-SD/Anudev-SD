@@ -58,7 +58,7 @@ I'm a Computer Science graduate from Kerala, India, interested in **Generative A
 | **Breast Cancer Gene Expression Analysis** | Applies data analysis and machine-learning methods to gene-expression data and explores Bayesian-network-based inference. https://github.com/Anudev-SD/Breast-Cancer-Gene-Analysis|
 | **Inventory Management Optimization** | Explores demand forecasting and reinforcement learning for inventory decisions. |
 | **F1 Data Dashboard** | Analyzes Formula 1 data and visualizes patterns such as qualifying performance and pit-stop efficiency. |
-| **FP&A Commentary Copilot** | Generates monthly finance commentary from P&L data and visualizes drivers such as budget variances and margin changes using RAG-grounded explanations and guardrails against fabricated numbers. |
+| **FP&A Commentary Copilot** | Generates monthly finance commentary from P&L data and visualizes drivers such as budget variances and margin changes using RAG-grounded explanations and guardrails against fabricated numbers. https://github.com/Anudev-SD/FP-A-Commentary-Copilot|
 | **Support Ticket Triage System** | Classifies customer support tickets by category and urgency, drafts AI-generated responses using OpenAI, and stores ticket details in an SQLite database for human review and approval. |
 | **Speech Processing AI Agent** | Implements a modular Python-based voice agent with configurable speech-to-text and text-to-speech providers, audio processing utilities, latency evaluation, and automated smoke testing. |
 
