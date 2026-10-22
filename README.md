@@ -56,7 +56,7 @@ I'm a Computer Science graduate from Kerala, India, interested in **Generative A
 | **Multi-Agent AI Stock Analyst** | Explores stock analysis by combining fundamental, technical, and sentiment-oriented research with a multi-agent workflow. |
 | **Medical RAG Application** | A retrieval-augmented application designed to answer questions using relevant medical reference content. https://github.com/Anudev-SD/AI-Medical-Report-Analyzer|
 | **Breast Cancer Gene Expression Analysis** | Applies data analysis and machine-learning methods to gene-expression data and explores Bayesian-network-based inference. https://github.com/Anudev-SD/Breast-Cancer-Gene-Analysis|
-| **Inventory Management Optimization** | Explores demand forecasting and reinforcement learning for inventory decisions. |
+| **Inventory Management Optimization** | Explores demand forecasting and reinforcement learning for inventory decisions. https://github.com/Anudev-SD/Warehouse-Inventory-Optimization|
 | **F1 Data Dashboard** | Analyzes Formula 1 data and visualizes patterns such as qualifying performance and pit-stop efficiency. |
 | **FP&A Commentary Copilot** | Generates monthly finance commentary from P&L data and visualizes drivers such as budget variances and margin changes using RAG-grounded explanations and guardrails against fabricated numbers. https://github.com/Anudev-SD/FP-A-Commentary-Copilot|
 | **Support Ticket Triage System** | Classifies customer support tickets by category and urgency, drafts AI-generated responses using OpenAI, and stores ticket details in an SQLite database for human review and approval. |
