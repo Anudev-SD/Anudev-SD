@@ -59,7 +59,7 @@ I'm a Computer Science graduate from Kerala, India, interested in **Generative A
 | **Inventory Management Optimization** | Explores demand forecasting and reinforcement learning for inventory decisions. https://github.com/Anudev-SD/Warehouse-Inventory-Optimization|
 | **F1 Data Dashboard** | Analyzes Formula 1 data and visualizes patterns such as qualifying performance and pit-stop efficiency. https://github.com/Anudev-SD/Formula-1-Performance-Analytics-Dashboard|
 | **FP&A Commentary Copilot** | Generates monthly finance commentary from P&L data and visualizes drivers such as budget variances and margin changes using RAG-grounded explanations and guardrails against fabricated numbers. https://github.com/Anudev-SD/FP-A-Commentary-Copilot|
-| **Support Ticket Triage System** | Classifies customer support tickets by category and urgency, drafts AI-generated responses using OpenAI, and stores ticket details in an SQLite database for human review and approval. |
+| **Support Ticket Triage System** | Classifies customer support tickets by category and urgency, drafts AI-generated responses using OpenAI, and stores ticket details in an SQLite database for human review and approval. https://github.com/Anudev-SD/Support-Ticket-Triage-System|
 | **Speech Processing AI Agent** | Implements a modular Python-based voice agent with configurable speech-to-text and text-to-speech providers, audio processing utilities, latency evaluation, and automated smoke testing. |
 
 > Project descriptions summarize the work at a high level. Check each repository for its actual implementation, setup instructions, and limitations.
