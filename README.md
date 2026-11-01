@@ -9,7 +9,7 @@ I'm a Computer Science graduate from Kerala, India, interested in **Generative A
 
 ## 👨‍💻 More About Me
 
-- **Name:** Anudev S. D.
+- **Name:** Anudev Shyna Dinesh
 - **From:** Kannur, Kerala, India
 - **Education:** Bachelor's degree in Computer Science
 - **Career interests:** AI Engineer, Generative AI Engineer, Agentic AI Engineer, and AI/ML Engineer
